@@ -1,0 +1,6 @@
+<application>
+  <component name="DockerSettings">
+    <option name="dockerComposePath" value="/run/current-system/sw/bin/docker" />
+    <option name="dockerPath" value="/run/current-system/sw/bin/docker" />
+  </component>
+</application>

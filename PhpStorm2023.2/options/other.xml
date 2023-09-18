@@ -1,0 +1,59 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="14.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PhpStorm.InitialConfiguration": "true",
+    "appcds.runOnSecondStart": "PS-232.9559.64-ec3d097eacfa8c07a4d60d301b26105c144c6eb912e92db7fd4860fec5170c26",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PS-232.9559.64",
+    "evlsprt3.232": "24",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "232.9559.64",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "gotit.previous.run": "PS-232.9559.64",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/mahmoud/Documents/Code/Workspace/test-mk2",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "PS-232.9559.64",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/mahmoud/Documents/Code/Workspace/test-mk2"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;ShowUsages&quot;: 1695051119333
+  },
+  &quot;proposedTips&quot;: {
+    &quot;ShowUsages&quot;: 1695051119165
+  },
+  &quot;tipsOrderSeed&quot;: 1695051119142
+}</component>
+</application>
